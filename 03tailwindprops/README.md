@@ -1,0 +1,1 @@
+playing with tailwind and props(properties).
