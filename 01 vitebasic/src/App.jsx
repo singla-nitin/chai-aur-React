@@ -1,5 +1,7 @@
+import Nitin from "./Nitin";
+
 function App() {
-  return <h1>CHAI-AUR-REACT | NITIN SINGLA</h1>;
+  return <Nitin />;
 }
 
 export default App;
